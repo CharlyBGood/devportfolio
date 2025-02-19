@@ -1,4 +1,3 @@
-import { createElement } from 'lwc';
 import Hero from 'c/hero';
 
 describe('c-hero', () => {

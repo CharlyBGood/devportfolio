@@ -1,4 +1,3 @@
-import { createElement } from 'lwc';
 import Snackbar from 'c/snackbar';
 
 describe('c-snackbar', () => {

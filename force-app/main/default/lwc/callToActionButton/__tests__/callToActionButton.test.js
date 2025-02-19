@@ -1,4 +1,3 @@
-import { createElement } from 'lwc';
 import CallToActionButton from 'c/callToActionButton';
 
 describe('c-call-to-action-button', () => {
