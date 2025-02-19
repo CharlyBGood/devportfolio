@@ -22,6 +22,7 @@ export default class CallToActionButton extends LightningElement {
 
   showDialog() {
     this.dialog.showModal();
+    console.log("showDialog");
   }
 
   closeDialog() {
