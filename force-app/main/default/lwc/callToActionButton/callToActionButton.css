@@ -1,0 +1,19 @@
+.form-style {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1em;
+}
+
+label,
+input,
+textarea {
+  display: block;
+}
+
+.btn-container {
+  display: flex;
+  justify-content: space-around;
+  gap: 0.5em;
+}
